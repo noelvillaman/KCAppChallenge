@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CONTACTS</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="favorites">FAVORITE CONTACTS</string>
+    <string name="others">OTHER CONTACTS</string>
+    <string name="phone">PHONE</string>
+    <string name="title_activity_contact_details">Contacts</string>
+</resources>
